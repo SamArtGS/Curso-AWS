@@ -1,2 +1,6 @@
-# Curso-AWS
-Material para el curso de AWS - PROTECO
+# Amazon Web Services
+
+Instructores:
+- Samuel Arturo Garrido Sánchez.
+- Héctor Mauricio García Serrano.
+
